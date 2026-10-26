@@ -1,0 +1,11 @@
+date,event,evaluable_robust_z,flagged_hours_robust_z,max_score_robust_z,detected_robust_z,evaluable_residual,flagged_hours_residual,max_score_residual,detected_residual
+2013-11-02,Milan vs Fiorentina,False,0,,False,False,0,,False
+2013-11-09,Inter vs Livorno,True,4,8.4,True,False,0,,False
+2013-11-15,Italy vs Germany,True,4,18.2,True,False,0,,False
+2013-11-23,Milan vs Genoa,True,4,10.2,True,True,0,1.4,False
+2013-12-01,Inter vs Sampdoria,True,5,17.7,True,True,5,23.1,True
+2013-12-04,Inter vs Trapani,True,1,6.1,True,True,3,7.1,True
+2013-12-08,Inter vs Parma,True,3,10.1,True,True,3,11.7,True
+2013-12-11,Milan vs Ajax,True,4,18.6,True,True,6,28.5,True
+2013-12-16,Milan vs Roma,True,4,16.5,True,True,4,22.4,True
+2013-12-22,Inter vs Milan,True,6,23.8,True,True,6,47.0,True

@@ -1,0 +1,11 @@
+,robust_z,robust_z,residual,residual
+,recall,false_alarm_hours,recall,false_alarm_hours
+K,,,,
+3,1.0,1,0.86,30
+4,1.0,1,0.86,3
+5,1.0,0,0.86,2
+6,1.0,0,0.86,1
+8,0.86,0,0.71,1
+10,0.86,0,0.71,0
+15,0.57,0,0.57,0
+20,0.14,0,0.57,0
