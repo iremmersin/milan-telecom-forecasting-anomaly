@@ -1,0 +1,33 @@
+# Byte compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+.venv*/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Data directories (Ignore large datasets)
+data/raw/
+data/interim/
+*.parquet
+*.h5
+*.pkl
+*.joblib
+data/**/*.txt
+data/**/*.zip
+
+# IDE & OS specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables & secrets
+.env

@@ -1,0 +1,12 @@
+pandas>=3.0
+numpy>=2.0
+pyarrow
+kagglehub
+matplotlib
+statsmodels>=0.15
+scikit-learn>=1.5
+lightgbm>=4.0
+prophet>=1.5
+plotly
+jupyter
+ipykernel
